@@ -23,4 +23,4 @@ Major features:
 - Run `npm install`
 - Run `npm start`
 
-<strong>You can replace database url with your local mongoDB URL to run in your system.</strong>
+
